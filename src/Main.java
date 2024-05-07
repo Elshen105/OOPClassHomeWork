@@ -8,7 +8,12 @@ public class Main {
 
     public static void main(String[] args) {
 
+        bookSearchingApp();
 
+
+    }
+
+    public static void bookSearchingApp() {
         while (true) {
 
             System.out.println("1 - Show All Book");
@@ -36,7 +41,6 @@ public class Main {
             }
 
         }
-
     }
 
 
